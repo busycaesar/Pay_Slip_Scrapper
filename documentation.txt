@@ -1,5 +1,0 @@
-A couple of days ago, while I was working, I came across a repetative task(Same buttons were beging pressed in a loop). This was the time when I thought of building something which does the job in seconds. However, eventually I was not able to find anything quickly so I just did the job. 
-
-Further, co-incidently, next day, I saw a YouTube video of Harkirat Singh who build a bot for his linkedin connections where I came to know that I can also build a bot using JavaScript. Upon watching the video I started exploring about web scrapping and automation techniques. However, I did not get anything specific to build which would help me out and I did not want to build anything non-helpful just for the sake of learning.
-
-Nonetheless, today when I was just curiously exploring web scrapping using JS, I get a great idea of builing a bot which downloads my latest payslip for me since it is(now 'was') a repetative task. Hence, I explored everything need to build it and came up with this amazing Node.js library, Puppeteer using with I build my bot.
